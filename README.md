@@ -1,5 +1,9 @@
 # fm-stats-preview-card (Stats Preview Card Component)
 
+## Live View
+
+Live View: [https://nitearie.github.io/fm-stats-preview-card/](https://nitearie.github.io/fm-stats-preview-card/)
+
 ## Design
 
 > Desktop
